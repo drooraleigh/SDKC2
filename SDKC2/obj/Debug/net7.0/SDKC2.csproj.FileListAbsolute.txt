@@ -1,0 +1,15 @@
+C:\Users\droor\Documents\Projects\SDKC2\SDKC2\obj\Debug\net7.0\SDKC2.csproj.AssemblyReference.cache
+C:\Users\droor\Documents\Projects\SDKC2\SDKC2\obj\Debug\net7.0\SDKC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\droor\Documents\Projects\SDKC2\SDKC2\obj\Debug\net7.0\SDKC2.AssemblyInfoInputs.cache
+C:\Users\droor\Documents\Projects\SDKC2\SDKC2\obj\Debug\net7.0\SDKC2.AssemblyInfo.cs
+C:\Users\droor\Documents\Projects\SDKC2\SDKC2\obj\Debug\net7.0\SDKC2.csproj.CoreCompileInputs.cache
+C:\Users\droor\Documents\Projects\SDKC2\SDKC2\bin\Debug\net7.0\SDKC2.exe
+C:\Users\droor\Documents\Projects\SDKC2\SDKC2\bin\Debug\net7.0\SDKC2.deps.json
+C:\Users\droor\Documents\Projects\SDKC2\SDKC2\bin\Debug\net7.0\SDKC2.runtimeconfig.json
+C:\Users\droor\Documents\Projects\SDKC2\SDKC2\bin\Debug\net7.0\SDKC2.dll
+C:\Users\droor\Documents\Projects\SDKC2\SDKC2\bin\Debug\net7.0\SDKC2.pdb
+C:\Users\droor\Documents\Projects\SDKC2\SDKC2\obj\Debug\net7.0\SDKC2.dll
+C:\Users\droor\Documents\Projects\SDKC2\SDKC2\obj\Debug\net7.0\refint\SDKC2.dll
+C:\Users\droor\Documents\Projects\SDKC2\SDKC2\obj\Debug\net7.0\SDKC2.pdb
+C:\Users\droor\Documents\Projects\SDKC2\SDKC2\obj\Debug\net7.0\SDKC2.genruntimeconfig.cache
+C:\Users\droor\Documents\Projects\SDKC2\SDKC2\obj\Debug\net7.0\ref\SDKC2.dll
